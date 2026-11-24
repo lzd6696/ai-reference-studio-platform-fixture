@@ -1,0 +1,13 @@
+{
+  "fixture": true,
+  "revision": 0,
+  "assets": [
+    {
+      "height": 16,
+      "path": "fixture.png",
+      "id": "synthetic-checkerboard",
+      "width": 16,
+      "sha256": "356540e409618b965b4bc95fb30610350f9175fe41e04f4a5a8afdfe9f06d890"
+    }
+  ]
+}
